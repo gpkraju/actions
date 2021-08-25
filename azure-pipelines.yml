@@ -1,6 +1,6 @@
 variables:
   buildConfiguration: 'Release'
-  webappName: 'webapp308844lsj'
+  webappName: 'webapp4vxorb5jnqyu6-webapp'
 
 stages:
 
